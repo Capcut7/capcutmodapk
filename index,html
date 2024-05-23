@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beginner’s Guide to CapCut</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        p {
+            color: #666;
+        }
+        .step {
+            margin-bottom: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            font-size: 14px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .highlight {
+            background-color: #e0f7fa;
+            padding: 10px;
+            border-left: 4px solid #007bff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Beginner’s Guide to CapCut: How to Get Started with Video Editing</h1>
+
+    <div class="step">
+        <h2>Step 1: Download and Install CapCut</h2>
+        <p>First, download <a href="https://thecapsapk.com/capcut-for-mac-download-latest-version/">CapCut</a> from the App Store or Google Play Store. Once installed, open the app and create a new project by tapping the <span class="highlight">“New Project”</span> button. This will take you to your device’s gallery, where you can select the video clips and photos you want to include in your project.</p>
+    </div>
+
+    <div class="step">
+        <h2>Step 2: Understanding the Interface</h2>
+        <p>CapCut’s interface is designed to be intuitive. The timeline at the bottom is where you’ll arrange your clips. The preview window at the top lets you see your edits in real-time. The toolbar at the bottom provides access to various editing tools, including trim, split, speed, and more.</p>
+    </div>
+
+    <div class="step">
+        <h2>Step 3: Basic Editing Functions</h2>
+        <p><strong>Trim and Split:</strong> To trim a clip, select it on the timeline, then drag the edges to shorten or lengthen it. To split a clip, position the playhead where you want to make the cut and tap the <span class="highlight">“Split”</span> button.</p>
+        <p><strong>Speed:</strong> Adjust the speed of your clips by selecting the clip and tapping the <span class="highlight">“Speed”</span> button. You can create slow-motion or fast-motion effects easily.</p>
+        <p><strong>Filters and Effects:</strong> CapCut offers a variety of filters and effects to enhance your videos. Tap the <span class="highlight">“Filters”</span> or <span class="highlight">“Effects”</span> button, browse through the options, and apply your desired effect.</p>
+    </div>
+
+    <div class="step">
+        <h2>Step 4: Adding Music and Text</h2>
+        <p><strong>Music:</strong> To add music, tap the <span class="highlight">“Audio”</span> button, then select <span class="highlight">“Sounds”</span> to choose from CapCut’s music library or <span class="highlight">“Extracted”</span> to use music from your device.</p>
+        <p><strong>Text:</strong> Tap the <span class="highlight">“Text”</span> button to add titles, captions, and other text elements. Customize the font, color, and animation to match your video’s style.</p>
+    </div>
+
+    <div class="step">
+        <h2>Step 5: Exporting Your Video</h2>
+        <p>Once you’ve finished editing, it’s time to export your video. Tap the <span class="highlight">“Export”</span> button at the top right corner of the screen. Choose your desired resolution and frame rate, then tap <span class="highlight">“Export”</span> again to save the video to your device. CapCut also offers options to directly share your video on social media platforms like TikTok and Instagram.</p>
+    </div>
+
+    <div class="step">
+        <h2>Conclusion</h2>
+        <p>CapCut makes video editing accessible and enjoyable for beginners. By following these steps, you can quickly create polished videos that stand out. Explore CapCut’s features, experiment with different effects, and let your creativity shine. With practice, you’ll become proficient in video editing and ready to tackle more advanced projects.</p>
+    </div>
+</div>
+
+</body>
+</html>
